@@ -42,5 +42,9 @@ To view and interact with the Tableau dashboard, you'll need:
 - **Tableau Desktop** or **Tableau Public** (for visualization).
 - **Python** (optional, for additional data cleaning or analysis).
 
+  ## Dashboard
+
+ [Check out my live dashboard link](https://public.tableau.com/app/profile/sai.shanthan.kasula/viz/ERHospitals/HospitalsERAnalysis?publish=yes).
+
 
 
